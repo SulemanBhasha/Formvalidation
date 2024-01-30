@@ -1,0 +1,14 @@
+body{
+	backgroun: #e2e2e2;
+}
+.container{
+	height: 200px;
+	width: 300px;
+	border: black;
+	border-width: 20px;
+	background:#ffffff;
+	padding:20px;
+	margin-left: 100px;
+	color: crimson;
+	
+}
